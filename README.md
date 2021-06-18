@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <img height="25" src="https://img.shields.io/badge/Lumen-E74430.svg?&style=for-the-badge&logo=Lumen&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/symfony-000000.svg?&style=for-the-badge&logo=symfony&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Composer-885630.svg?&style=for-the-badge&logo=composer&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/golang-blue.svg?&style=for-the-badge&logo=go&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/.NET-5C2D91.svg?&style=for-the-badge&logo=.NET&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=Java&logoColor=red"></img>
 <img height="25" src="https://img.shields.io/badge/GraphQL-E10098.svg?&style=for-the-badge&logo=GraphQL&logoColor=white"></img>
