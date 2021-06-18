@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <img height="25" src="https://img.shields.io/badge/SonarQube-4E9BCD.svg?&style=for-the-badge&logo=SonarQube&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Heroku-430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/-Travis-purple.svg?&style=for-the-badge&logo=Travis&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img> 
 <img height="25" src="https://img.shields.io/badge/javascript-ffff00.svg?&style=for-the-badge&logo=javascript&logoColor=000"></img>
@@ -61,14 +60,14 @@ Here are some ideas to get you started:
   <a href="https://github.com/fellipeesteves/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipeesteves&layout=compact&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelipebf&layout=compact&theme=dracula"
     />
   </a>
   <a href="https://github.com/fellipeesteves/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=fellipeesteves&show_icons=true&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api?username=phelipebf&show_icons=true&theme=dracula"
     />
   </a>
 </p>
