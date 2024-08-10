@@ -54,21 +54,31 @@ Here are some ideas to get you started:
 <img height="25" src="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/sqlserver-CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Bitcoin-E34F26.svg?&style=for-the-badge&logo=Bitcoin&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Ethereum-363538.svg?&style=for-the-badge&logo=Ethereum&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Solidity-252426.svg?&style=for-the-badge&logo=Solidity&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Blockchain-2771e8.svg?&style=for-the-badge&logo=GraphQL&logoColor=white"></img>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/fellipeesteves/github-readme-stats">
+  <a href="https://github.com/phelipebf/github-readme-stats">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelipebf&layout=compact&theme=dracula"
     />
   </a>
-  <a href="https://github.com/fellipeesteves/github-readme-stats">
+  <a href="https://github.com/phelipebf/github-readme-stats">
     <img
       align="center"
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=phelipebf&show_icons=true&theme=dracula"
     />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66b15699d9896b3d14041a45?variant=dark&roadmaps=blockchain" alt="roadmap.sh"/></a>
 </p>
